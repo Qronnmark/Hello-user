@@ -24,7 +24,7 @@ namespace WindowsFormsApplication2
 
         private void btnEntertheMatrix_Click(object sender, EventArgs e)
         {
-            lblMatrix.Text = "Hello, (User). The Matrix has you now.";
+            lblMatrix.Text = "Hello, (User). The Matrix has you now."
         }
     }
 }

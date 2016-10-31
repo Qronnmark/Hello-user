@@ -46,16 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hello.cs">
+    <Compile Include="..\..\Hello.cs">
       <SubType>Form</SubType>
+      <Link>Hello.cs</Link>
     </Compile>
-    <Compile Include="Hello.Designer.cs">
+    <Compile Include="..\..\Hello.Designer.cs">
       <DependentUpon>Hello.cs</DependentUpon>
+      <Link>Hello.Designer.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Hello.resx">
+    <EmbeddedResource Include="..\..\Hello.resx">
       <DependentUpon>Hello.cs</DependentUpon>
+      <Link>Hello.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

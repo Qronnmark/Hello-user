@@ -45,7 +45,7 @@
             // lblMatrix
             // 
             this.lblMatrix.AutoSize = true;
-            this.lblMatrix.Location = new System.Drawing.Point(550, 390);
+            this.lblMatrix.Location = new System.Drawing.Point(604, 427);
             this.lblMatrix.Name = "lblMatrix";
             this.lblMatrix.Size = new System.Drawing.Size(0, 13);
             this.lblMatrix.TabIndex = 2;

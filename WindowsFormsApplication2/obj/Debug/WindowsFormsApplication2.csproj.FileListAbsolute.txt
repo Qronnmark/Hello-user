@@ -7,3 +7,12 @@
 \\sjsdfs1.sjsd.lcl\students\q.ronnmark\my documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 \\sjsdfs1.sjsd.lcl\students\q.ronnmark\my documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 \\sjsdfs1.sjsd.lcl\students\q.ronnmark\my documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmHello.resources
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Hello user\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

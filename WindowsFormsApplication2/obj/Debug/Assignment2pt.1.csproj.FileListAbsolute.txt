@@ -1,0 +1,3 @@
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Assignment2 pt.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Assignment2 pt.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\SJSDFS1.SJSD.LCL\Students\Q.ronnmark\My Documents\Visual Studio 2015\Projects\Assignment2 pt.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
